@@ -1,3 +1,8 @@
+### Student Details
+* **Name:** Navidu Manathunga
+* **Student ID:** W2121909
+* **Coursework Title:** Smart Campus Sensor & Room Management API
+* **GitHub Report:** https://github.com/navidumanathunga/smart-campus-rest-api
 # Smart Campus Sensor & Room Management API
 
 This project is a RESTful API built with JAX-RS (Jersey) and Grizzly HTTP Server.
